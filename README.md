@@ -11,4 +11,3 @@ Pos Malaysia postman collection for Rate Calculator
 2. Clone the project
 3. Open with the IDE
 4. Run the project
-5. Edited
