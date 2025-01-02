@@ -9,5 +9,5 @@ Pos Malaysia postman collection for Rate Calculator
 ## Selenium setup
 1. Please download an IDE and other other required dependencies/tools
 2. Clone the project
-3. Open with the IDE
+3. Open with any preferred IDE
 4. Run the project
