@@ -15,6 +15,7 @@ public class RateCalculator {
 	WebDriver driver;
 	WebDriverWait wait;
 
+	//default constructor
 	public RateCalculator(WebDriver driver) {
 
 		this.driver = driver;
